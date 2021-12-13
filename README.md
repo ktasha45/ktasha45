@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ktasha45
+- 👋 Hi!
 - 👀 I’m interested in python, AI, recommendation sysytem.
 - 🌱 I’m currently learning AI(python), js, db, html, css. I want to launch my own application or web service til 
 - 💞️ I’m looking to collaborate on ...
