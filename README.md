@@ -1,5 +1,4 @@
 👋 Hi  
-👀 I’m interested in c++, artificial intelligence.  
 📫 If you have anything to say, please send me an email to **ktasha45@gmail.com**
 
 <!---
