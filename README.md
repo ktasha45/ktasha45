@@ -1,6 +1,5 @@
 👋 Hi  
-📫 Email : ktasha45@gmail.com  
-📜 Blog: https://ktasha45.github.io/ (Korean)
+📫 Email : ktasha45@gmail.com
 
 <!---
 ktasha45/ktasha45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
